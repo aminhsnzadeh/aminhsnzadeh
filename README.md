@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aminhsnzadeh
+- 👋 Hi, I’m Amin Hasanzadeh :)
 - 👀 I’m interested in Front-end coding and developing
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me : with my personal website https://aminhsnzadeh.ir/ or instagram amin.hsnzadeh and linkedin Amin hasanzadeh
